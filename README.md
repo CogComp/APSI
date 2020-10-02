@@ -30,7 +30,7 @@ Download the [cleaned dataset](https://hkustconnect-my.sharepoint.com/:u:/g/pers
 
 The readers are welcome to star/fork this repository and use it to train your own model, reproduce our experiment, and follow our future work. Please kindly cite our paper:
 ```
-@inproceedings{APSIZhangZS20,
+@inproceedings{APSIHMHYD,
   author    = {Hongming Zhang and
                Muhao Chen and
                Haoyu Wang and
